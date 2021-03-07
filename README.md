@@ -8,29 +8,26 @@ This is a demo version of famous Flappy Bird game. I made this game for learning
 
 📂 FlappyBird sound
 
-![alt text](https://miro.medium.com/max/208/1*PqWn3G57zEColzfPh7CMJQ.jpeg)
+![alt text](https://miro.medium.com/max/179/1*o4eqyJHjteQns7p9kI8hhg.png)
 
 📂 FlappyBird texture
 
-![alt text](https://miro.medium.com/max/278/1*1rQwTEg4AJ1S2rt1BxlODw.jpeg)
+![alt text](https://miro.medium.com/max/195/1*Z86haGuwv5mRtTvS1wtp_w.png)
 
 📂 Prefabs
 
-![alt text](https://miro.medium.com/max/253/1*5jwdwWySf5Ib-X2DEhJH0g.jpeg)
+![alt text](https://miro.medium.com/max/156/1*XvJGhhje4MuPTR841n-c9Q.png)
 
 📂 Scenes
 
-![alt text](https://miro.medium.com/max/201/1*1-9Q0_QZ5EAnYtzCEYK0kA.jpeg)
+![alt text](https://miro.medium.com/max/152/1*EFgQPJdMN0nWH3iqn6FgKQ.png)
 
 📂 Scripts
 
-![alt text](https://miro.medium.com/max/201/1*1-9Q0_QZ5EAnYtzCEYK0kA.jpeg)
+![alt text](https://miro.medium.com/max/159/1*XXlfZcWZQ_QNxHc-_frSUg.png)
 
 
 ## Output
 
-![](https://miro.medium.com/max/218/1*ElLgg8VlFFTVGK90zySsrA.jpeg)
-![](https://miro.medium.com/max/231/1*n4Wf2iWgmYmwE42MB7iCGg.jpeg)
-![](https://miro.medium.com/max/208/1*nouhZAzyR4T87IbYrBhJMw.jpeg)
-![](https://miro.medium.com/max/370/1*ZMxo8Te3Z-mO0O8ubP3f_A.jpeg)
-
+![](https://miro.medium.com/max/533/1*8uMCICEfape3tvJXgPUhSA.png)
+![](https://miro.medium.com/max/468/1*oWAUqL5I0Tucz0ku8NI-GQ.png)
